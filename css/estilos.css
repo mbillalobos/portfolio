@@ -1,0 +1,165 @@
+/*Estilos de página Inicio*/
+
+#inicio {
+    background-image: url(../images/fondo-inicio.png);
+    background-size: 100%;
+}
+
+/*Estilos de página Proyectos*/
+
+#proyectos {
+    background-image: url(../images/fondo.png);
+    background-size: 100%;
+}
+
+#proyectos .fab {
+    color: #E20000;
+    font-size: 30px;
+    margin: 0px 5px;
+}
+
+#proyectos .fab:hover {
+    color: black;
+}
+
+#proyectos footer a {
+    color: #E20000;
+}
+
+#proyectos footer a:hover {
+    color: black;
+}
+
+#proyectos #sponsor {
+    color: #E20000;
+}
+
+#proyectos .depc {
+    text-decoration: underline;
+}
+
+#proyectos footer .fa-whatsapp {
+    color: white;
+}
+
+/*Estilos de página Contacto*/
+
+.home {
+    height: 85vh;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+nav .nav-link {
+   color: #282828;
+   font-size: 16px;
+   font-weight: 100 !important;
+   border-radius: 20px !important;
+   padding: 3px 20px !important;
+}
+
+nav .active {
+    border: 1px solid #E20000;
+    font-size: 16px;
+    font-weight: 100 !important;
+    border-radius: 20px !important;
+    padding: 3px 20px !important;
+}
+
+h1{
+    color: #E20000;
+}
+
+p {
+    color: #6A6A6A;
+}
+
+#contacto {
+    background-image: url(../images/fondo-contacto.png);
+    background-size: 100%;
+}
+
+#contacto h1 {
+    font-weight: 900;
+}
+
+.btn-enviar {
+    background-color: white;
+    color: #370A6D !important;
+    font-weight: bold;
+    padding: 15px 70px;
+    border: 0px solid;
+    border-radius: 30px;
+}
+
+.btn-pdf {
+    background-color: #E20000;
+    font-size: 15px;
+    color: white;
+    font-weight: 100 !important;
+    border-radius: 20px !important;
+    padding: 5px 20px;
+}
+
+.btn-pdf:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+input {
+    border: 0px solid !important;
+    border-radius: 12px !important;
+}
+
+textarea {
+    border: 0px solid !important;
+    border-radius: 18px !important;
+}
+
+#contacto .depc {
+    text-decoration: underline;
+}
+
+.fab {
+    color: white;
+    font-size: 30px;
+    margin: 0px 5px;
+}
+
+.fab:hover {
+    color: black;
+}
+
+#sponsor {
+    color: white;
+}
+
+
+
+/*Estilos comunes para todas las paginas*/
+
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    color: black;
+}
+
+footer .fa-whatsapp {
+    color: white;
+    background-color: #370A6D;
+    font-size: 30px;
+    padding: 15px 30px;
+    padding-bottom: 34px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.footer-proyectos {
+    color: red;
+}
+
+

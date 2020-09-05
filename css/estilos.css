@@ -5,6 +5,56 @@
     background-size: 100%;
 }
 
+/*Estilos de página Sobre Mí*/
+
+#sobre-mi h1 {
+    font-weight: 900;
+    margin-bottom: 40px;
+}
+
+#sobre-mi h2 {
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    margin: 50px 0px;
+}
+
+#sobre-mi .card-img-top {
+    height: 150px;
+    width: 150px;
+}
+
+#sobre-mi .card {
+    border-radius: 15px;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+}
+
+#sobre-mi img {
+    height: 350px;
+    width: 350px;
+    border-radius: 100%;
+}
+
+#sobre-mi p {
+    color: #6A6A6A;
+    font-size: 20px;
+}
+
+.imagen {
+    padding-left: 50px;
+}
+
+#tecnologias {
+    background-color: #E20000;
+}
+
+#idiomas {
+    background-color: lightgray;
+}
 /*Estilos de página Proyectos*/
 
 #proyectos {

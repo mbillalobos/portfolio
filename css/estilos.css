@@ -52,9 +52,136 @@ h3 {
     background-color: #E20000;
 }
 
-#idiomas {
+#intereses {
     background-color: lightgray;
 }
+
+#sobre-mi h4 {
+    color: #282828;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#sobre-mi .idiomas, #sobre-mi .hobbies {
+    font-size: 10px;
+    color: #282828;
+}
+
+#sobre-mi .recuadro {
+    background-color: white;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding-top: 20px;
+
+}
+
+#sobre-mi .fa-comment-alt, #sobre-mi .fa-star {
+    background-color: #370A6D;
+    color: white ;
+    font-size: 50px;
+    border: 0px solid;
+    border-radius: 12px;
+    padding: 30px 30px;   
+}
+
+#experiencia h2{
+    color: #370A6D;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 30px 0px;
+}
+
+#experiencia i{
+    font-size: 45px;
+}
+
+#experiencia img {
+    height: 60px;
+    width: 60px;
+}
+
+#experiencia .shadow {
+    border: 0px solid;
+    border-radius: 15px;
+}
+
+#experiencia p{
+    font-size: 10px;
+    color: #282828;
+    margin-bottom: 8px;
+}
+#experiencia ul{
+    font-size: 10px;
+    color: #282828;
+    padding: 0px 15px;
+}
+
+#estudios {
+    background-color: lightgray;
+}
+
+#estudios h2{
+    color: #E20000;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 30px 0px;
+}
+
+#estudios i{
+    font-size: 45px;
+}
+
+#estudios img {
+    height: 60px;
+    width: 60px;
+}
+#estudios p{
+    font-size: 10px;
+    color: #282828;
+    margin-bottom: 8px;
+}
+#estudios ul{
+    font-size: 10px;
+    color: #282828;
+    padding: 0px 15px;
+}
+
+#estudios .shadow {
+    background-color: white;
+    border: 0px solid;
+    border-radius: 15px;
+}
+
+#sobre-mi footer {
+    background-color: lightgray;
+}
+
+#sobre-mi footer a {
+    color: #E20000;
+}
+
+#sobre-mi footer a:hover {
+    color: black;
+}
+
+#sobre-mi #sponsor {
+    color: #E20000;
+}
+
+#sobre-mi .fab {
+    color: #E20000;
+    font-size: 30px;
+    margin: 0px 5px;
+}
+
+#sobre-mi .fab:hover {
+    color: black;
+}
+
+#sobre-mi footer .fa-whatsapp {
+    color: white;
+}
+
 /*Estilos de página Proyectos*/
 
 #proyectos {
@@ -208,8 +335,5 @@ footer .fa-whatsapp {
     border-top-right-radius: 15px;
 }
 
-.footer-proyectos {
-    color: red;
-}
 
 

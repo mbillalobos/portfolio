@@ -7,6 +7,11 @@
 
 /*Estilos de página Sobre Mí*/
 
+#sobre-mi {
+    background-image: url(../images/fondo.png);
+    background-size: 100%;
+}
+
 #sobre-mi h1 {
     font-weight: 900;
     margin-bottom: 40px;
@@ -20,8 +25,8 @@
 }
 
 #sobre-mi .card-img-top {
-    height: 150px;
-    width: 150px;
+    height: 165px;
+    width: 165px;
 }
 
 #sobre-mi .card {

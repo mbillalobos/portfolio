@@ -28,16 +28,16 @@
                 <div class="collapse navbar-collapse" id="navbarsExampleDefault">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item pr-5">
-                            <a class="nav-link" href="index.html">Inicio</a>
+                            <a class="nav-link" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item pr-5">
-                            <a class="nav-link active" href="sobre-mi.html">Sobre mi</a>
+                            <a class="nav-link active" href="sobre-mi.php">Sobre mi</a>
                         </li>
                         <li class="nav-item pr-5">
-                            <a class="nav-link" href="proyectos.html">Proyectos</a>
+                            <a class="nav-link" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contacto.html">Contacto</a>
+                            <a class="nav-link" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div class="form-inline my-2 my-lg-0">
@@ -66,7 +66,7 @@
             </div>
     </main>
     <section id="tecnologias">
-        <div class="container pb-5">
+        <div class="container pb-5 px-0">
             <div class="row">
                 <div class="col-12 col-sm-6 px-0">
                     <h2>Tecnologías de programación</h2>
@@ -187,10 +187,10 @@
             <div class="row justify-content-center py-5">
                 <div class="col-12 col-sm-5">
                     <div class="row align-content-end">
-                        <div class="col-6 col-sm-4 pr-0 pl-2">
+                        <div class="col-6 col-sm-3 pr-0 pl-2">
                             <i class="fas fa-comment-alt"></i>
                         </div>
-                        <div class="col-6 col-sm-8 recuadro">
+                        <div class="col-6 col-sm-9 recuadro">
                             <h4>IDIOMAS</h4>
                             <p class="idiomas">INGLES - Intermediate B2 <br> ESPAÑOL - Nativo <br> FRANCES - Avanzado
                             </p>
@@ -199,10 +199,10 @@
                 </div>
                 <div class="col-12 col-sm-5">
                     <div class="row">
-                        <div class="col-6 col-sm-4 pr-0 pl-2">
+                        <div class="col-6 col-sm-3 pr-0 pl-2">
                             <i class="fas fa-star"></i>
                         </div>
-                        <div class="col-6 col-sm-8 recuadro ">
+                        <div class="col-6 col-sm-9 recuadro ">
                             <h4>HOBBIES</h4>
                             <p class="hobbies">Herreria <br> Youtube</p>
                         </div>

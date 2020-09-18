@@ -47,6 +47,7 @@ h3 {
 #sobre-mi p {
     color: #6A6A6A;
     font-size: 20px;
+    margin-bottom: 50px;
 }
 
 .imagen {
@@ -258,7 +259,10 @@ h1{
     color: #E20000;
 }
 
-p {
+#contacto p {
+    padding-right: 50px;
+    font-size: 25px;
+    font-weight: 600;
     color: #6A6A6A;
 }
 

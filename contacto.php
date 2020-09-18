@@ -56,9 +56,10 @@
             </div>
             <div class="row">
                 <div class="col-sm-6 col-12">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium animi nisi dolore earum,
-                        doloremque doloribus deserunt, quam dolores voluptatum dolorem dicta voluptatem labore atque
-                        fuga ullam exercitationem aut. Quisquam, velit.</p>
+                    <p>Para más detalles sobre mi
+                        trabajo podés ver mi Linkedin,
+                        descargar mi CV o mandarme
+                        un mensaje.</p>
                 </div>
                 <div class="col-sm-6 col-12">
                     <form action="" method="POST">

@@ -52,12 +52,11 @@
             <div class="row py-5">
                 <div class="col-sm-6 col-12">
                     <h1>Sobre Mí</h1>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem quam sapiente officia soluta ab
-                        sed, quisquam fugiat dignissimos. Aliquam dolores consectetur odio quia placeat in, excepturi
-                        voluptate? Numquam, aperiam ad.</p>
+                    <p>Aprendiz de programación y apasionado por la tecnología. Tengo formación técnica en electronica y
+                        automatización.</p>
                     <a href="https://github.com/mbillalobos" target="_blank" title="Github"><i
                             class="fab fa-github"></i></a>
-                    <a href="https://ar.linkedin.com/" target="_blank" title="Linkedin"><i
+                    <a href="https://www.linkedin.com/in/manuel-ignacio-billalobos-606a2b1b6/" target="_blank" title="Linkedin"><i
                             class="fab fa-linkedin-in"></i></a>
                 </div>
                 <div class="col-sm-6 col-12 imagen">
@@ -73,37 +72,37 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/javascript.png" alt="">
                     <div class="card-body px-1">
                         <h3 class="card-text">Javascript</h3>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/php.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">PHP</h3>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/html5.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">HTML5</h3>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/react.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">React.js</h3>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/jquery.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">jQuery</h3>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/bootstrap.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">Bootstrap</h3>
@@ -111,37 +110,37 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/laravel.png" alt="">
                     <div class="card-body px-1">
                         <h3 class="card-text">Laravel</h3>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/mariadb.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">Maria DB</h3>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/css.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">CSS</h3>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/mysql.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">MySQL</h3>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/apache.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">Apache</h3>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/git.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">Git</h3>
@@ -149,35 +148,37 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/heidisql.png" alt="">
                     <div class="card-body px-1">
                         <h3 class="card-text">Heidi SQL</h3>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/sublimetext.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">Sublime Text</h3>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/xampp.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">XAMPP</h3>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/word.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">Word</h3>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 card">
+                <div class="col m-1 card">
                     <img class="card-img-top" src="images/excel.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">Excel</h3>
                     </div>
+                </div>
+                <div class="col m-1">
                 </div>
             </div>
         </div>

@@ -55,7 +55,7 @@
                 <div class="col-3">
                     <a href="https://github.com/mbillalobos" target="_blank" title="Github"><i
                             class="fab fa-github"></i></a>
-                    <a href="https://ar.linkedin.com/" target="_blank" title="Linkedin"><i
+                    <a href="https://www.linkedin.com/in/manuel-ignacio-billalobos-606a2b1b6/" target="_blank" title="Linkedin"><i
                             class="fab fa-linkedin-in"></i></a>
                 </div>
                 <div class="col-3" id="sponsor">
@@ -73,5 +73,4 @@
         </div>
     </footer>
 </body>
-
 </html>

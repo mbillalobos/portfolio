@@ -24,7 +24,7 @@
     margin: 50px 0px;
 }
 
-#sobre-mi .card-img-top {
+#sobre-mi #tecnologias .card-img-top {
     height: 165px;
     width: 165px;
 }
@@ -87,6 +87,10 @@ h3 {
     border: 0px solid;
     border-radius: 12px;
     padding: 30px 30px;   
+}
+
+#experiencia {
+    background-color: white;
 }
 
 #experiencia h2{

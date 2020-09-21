@@ -50,14 +50,13 @@
     <main>
         <div class="container">
             <div class="row py-5">
-                <div class="col-sm-6 col-12">
+                <div class="col-sm-6 col-12 px-0">
                     <h1>Sobre Mí</h1>
                     <p>Aprendiz de programación y apasionado por la tecnología. Tengo formación técnica en electronica y
                         automatización.</p>
                     <a href="https://github.com/mbillalobos" target="_blank" title="Github"><i
                             class="fab fa-github"></i></a>
-                    <a href="https://www.linkedin.com/in/manuel-ignacio-billalobos-606a2b1b6/" target="_blank" title="Linkedin"><i
-                            class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.linkedin.com/in/manuel-ignacio-billalobos-606a2b1b6/" target="_blank" title="Linkedin"><i class="fab fa-linkedin"></i></a>
                 </div>
                 <div class="col-sm-6 col-12 imagen">
                     <img src="images/avatar.jpg" alt="">
@@ -306,8 +305,7 @@
                 <div class="col-3">
                     <a href="https://github.com/mbillalobos" target="_blank" title="Github"><i
                             class="fab fa-github"></i></a>
-                    <a href="https://www.linkedin.com/in/manuel-ignacio-billalobos-606a2b1b6/" target="_blank" title="Linkedin"><i
-                            class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.linkedin.com/in/manuel-ignacio-billalobos-606a2b1b6/" target="_blank" title="Linkedin"><i class="fab fa-linkedin"></i></a>
                 </div>
                 <div class="col-3" id="sponsor">
                     Sponsor <a href="https://depcsuite.com" target="_blank" title="DEPCSUITE" class="depc">DePC

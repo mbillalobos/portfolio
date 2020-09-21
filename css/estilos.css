@@ -3,6 +3,42 @@
 #inicio {
     background-image: url(../images/fondo-inicio.png);
     background-size: 100%;
+    background-position: center;
+}
+
+#inicio h2 {
+color: white;
+font-size: 23px;
+border: 1px solid white;
+border-radius: 30px;
+position: absolute;
+top: 630px; left:auto;
+
+}
+
+#inicio .btn-trabajo {
+    background-color: white;
+    color: #370A6D !important;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 0px solid;
+    border-radius: 30px;
+    position: absolute;
+    top: 700px; 
+}
+
+#inicio .btn-pdf {
+    background-color: #E20000;
+    font-size: 15px;
+    color: white !important;
+    font-weight: 100 !important;
+    border-radius: 20px !important;
+    padding: 5px 20px;
+}
+
+#inicio span {
+    text-decoration: underline;
+    font-weight: 800;
 }
 
 /*Estilos de página Sobre Mí*/
@@ -255,10 +291,6 @@ nav .active {
     padding: 3px 20px !important;
 }
 
-h1{
-    color: #E20000;
-}
-
 #contacto p {
     padding-right: 50px;
     font-size: 25px;
@@ -269,10 +301,6 @@ h1{
 #contacto {
     background-image: url(../images/fondo-contacto.png);
     background-size: 100%;
-}
-
-#contacto h1 {
-    font-weight: 900;
 }
 
 .btn-enviar {
@@ -330,6 +358,11 @@ textarea {
 
 /*Estilos comunes para todas las paginas*/
 
+h1 {
+    font-weight: 900;
+    color: #E20000;
+}
+
 footer a {
     color: white;
 }
@@ -346,6 +379,17 @@ footer .fa-whatsapp {
     padding-bottom: 34px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
+}
+
+.fa-linkedin {
+    color: white;
+    font-size: 30px;
+    margin: 0px 5px;
+}
+
+.fa-linkedin:hover {
+    color: black;
+
 }
 
 

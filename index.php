@@ -48,6 +48,18 @@
         </div>
     </header>
     <main class="home">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 center-block">
+                    <h2 class="px-3 py-2">Hola mi nombre es <span>Ignacio</span>, soy desarrollador full stack.  |  <i class="fas fa-search"></i></h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 center-block">
+                    <button class="btn btn-trabajo">MIRÁ MI TRABAJO</button>
+                </div>
+            </div>
+        </div>
     </main>
     <footer>
         <div class="container">
@@ -55,8 +67,7 @@
                 <div class="col-3">
                     <a href="https://github.com/mbillalobos" target="_blank" title="Github"><i
                             class="fab fa-github"></i></a>
-                    <a href="https://www.linkedin.com/in/manuel-ignacio-billalobos-606a2b1b6/" target="_blank" title="Linkedin"><i
-                            class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.linkedin.com/in/manuel-ignacio-billalobos-606a2b1b6/" target="_blank" title="Linkedin"><i class="fab fa-linkedin"></i></a>
                 </div>
                 <div class="col-3" id="sponsor">
                     Sponsor <a href="https://depcsuite.com" target="_blank" title="DEPCSUITE" class="depc">DePC

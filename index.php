@@ -50,13 +50,13 @@
     <main class="home">
         <div class="container">
             <div class="row">
-                <div class="col-12 center-block">
+                <div class="col-12">
                     <h2 class="px-3 py-2">Hola mi nombre es <span>Ignacio</span>, soy desarrollador full stack.  |  <i class="fas fa-search"></i></h2>
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 center-block">
-                    <button class="btn btn-trabajo">MIRÁ MI TRABAJO</button>
+                <div class="col-12">
+                    <button class="btn btn-trabajo j">MIRÁ MI TRABAJO</button>
                 </div>
             </div>
         </div>

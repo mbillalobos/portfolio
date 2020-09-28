@@ -47,16 +47,22 @@
             </nav>
         </div>
     </header>
-    <main>
+    <main id="iniciado">
         <div class="container">
             <div class="row py-5">
                 <div class="col-sm-6 col-12 px-0">
                     <h1>Sobre Mí</h1>
                     <p>Aprendiz de programación y apasionado por la tecnología. Tengo formación técnica en electronica y
                         automatización.</p>
-                    <a href="https://github.com/mbillalobos" target="_blank" title="Github"><i
-                            class="fab fa-github"></i></a>
-                    <a href="https://www.linkedin.com/in/manuel-ignacio-billalobos-606a2b1b6/" target="_blank" title="Linkedin"><i class="fab fa-linkedin"></i></a>
+                    <div class="row">
+                        <div class="col-sm-3 col-4 px-0">
+                            <a href="https://github.com/mbillalobos" target="_blank" title="Github"><i class="fab fa-github"></i></a>
+                            <a href="https://www.linkedin.com/in/manuel-ignacio-billalobos-606a2b1b6/" target="_blank" title="Linkedin"><i class="fab fa-linkedin"></i></a>
+                        </div>
+                        <div class="col-sm-5 col-4 text-right">
+                            <a href="" class="btn btn-curriculum">DESCARGÁ MI CV</a>       
+                        </div>
+                    </div>
                 </div>
                 <div class="col-sm-6 col-12 imagen">
                     <img src="images/avatar.jpg" alt="">
@@ -185,7 +191,7 @@
     <section id="intereses">
         <div class="container">
             <div class="row justify-content-center py-5">
-                <div class="col-12 col-sm-5">
+                <div class="col-12 col-sm-6">
                     <div class="row align-content-end">
                         <div class="col-6 col-sm-3 pr-0 pl-2">
                             <i class="fas fa-comment-alt"></i>
@@ -197,7 +203,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-5">
+                <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-6 col-sm-3 pr-0 pl-2">
                             <i class="fas fa-star"></i>
@@ -214,12 +220,12 @@
     <section id="experiencia">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-sm-5">
+                <div class="col-12 col-sm-5 px-5">
                     <h2><i class="fas fa-briefcase"></i> Experiencia laboral</h2>
                 </div>
             </div>
-            <div class="row justify-content-center pb-5">
-                <div class="col-12 col-sm-5 shadow mx-2">
+            <div class="row pb-5">
+                <div class="col shadow mx-2">
                     <div class="row">
                         <div class="col-6 col-sm-4 d-flex justify-content-center">
                             <img src="images/limpieza.jpg" alt="">
@@ -237,8 +243,13 @@
                             </p>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-12 text-right pb-3 pr-4">
+                            <a href="https://es-la.facebook.com/limpieza.tianaran" target="_blank" class="btn btn-empresa">VER EMPRESA</a>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-12 col-sm-5 shadow mx-2">
+                <div class="col shadow mx-2">
                     <div class="row">
                         <div class="col-6 col-sm-4 d-flex justify-content-center">
                             <img src="images/mascomputacion.png" alt="">
@@ -256,6 +267,12 @@
                             </p>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-12 text-right pb-3 pr-4">
+                            <a href="https://www.mascomputacion.com.ar/" target="_blank" class="btn btn-empresa">VER EMPRESA</a>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -263,12 +280,12 @@
     <section id="estudios">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-sm-5">
+                <div class="col-12 col-sm-5 px-5">
                     <h2><i class="fas fa-graduation-cap"></i> Estudios</h2>
                 </div>
             </div>
             <div class="row justify-content-center pb-5">
-                <div class="col-12 col-sm-5 shadow mx-2">
+                <div class="col shadow mx-2">
                     <div class="row">
                         <div class="col-6 col-sm-4 d-flex justify-content-center pt-3">
                             <img src="images/depc.png" alt="">
@@ -287,8 +304,13 @@
                             </p>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-12 text-right pb-3 pr-4">
+                            <a href="https://depcsuite.com/curso-programacion-web-full-stack/?v=d72a48a8ebd2" target="_blank" class="btn btn-empresa">VER EMPRESA</a>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-12 col-sm-5 shadow mx-2">
+                <div class="col shadow mx-2">
                     <div class="row">
                         <div class="col-6 col-sm-4 d-flex justify-content-center">
                         </div>

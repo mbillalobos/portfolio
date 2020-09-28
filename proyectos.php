@@ -47,15 +47,95 @@
             </nav>
         </div>
     </header>
-    <main class="home">
+    <main>
         <div class="container">
-            <div class="row py-5">
+            <div class="row pt-5 pb-4">
                 <div class="col-12 px-0">
                     <h1>Mis proyectos</h1>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-7 px-0 pb-4">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni ratione dolore quia facere beatae in mollitia harum! Repellat eligendi animi, qui mollitia tempore consequatur, repudiandae unde cupiditate nemo quam porro.</p>
+                </div>
+            </div>
         </div>
     </main>
+    <section>
+        <div class="container pb-5">
+            <div class="row">
+                <div class="col-sm-4 col-12">
+                    <div class="bg-white shadow">
+                        <img src="images/abmclientes.png" alt="ABM Ventas" class="img-fluid p-3">
+                        <div class="row p-3">
+                            <div class="col-12 degradado">
+                                <h3>ABM CLIENTES</h3>
+                            </div>
+                        </div>
+                        <div class="row p-3">
+                            <div class="col-12">
+                                <p>Alta, Baja, modificación de un registro de clientes empleando:. Realizado en HTML, CSS, PHP, Bootstrap y Json.</p>
+                            </div>
+                        </div>
+                        <div class="row p-3">
+                            <div class="col-6">
+                                <a href="https://nelsontarche.com.ar/sistema/abmclientes/" class="btn btn-online" target="_blank">VER ONLINE</a>
+                            </div>
+                            <div class="col-6 text-right">
+                                <a href="" class="codigo-fuente">CÓDIGO FUENTE</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4 col-12">
+                    <div class="bg-white shadow">
+                        <img src="images/abmventas.png" alt="ABM Ventas" class="img-fluid p-3">
+                        <div class="row p-3">
+                            <div class="col-12 degradado">
+                                <h3>SISTEMA DE GESTIÓN DE VENTAS</h3>
+                            </div>
+                        </div>
+                        <div class="row p-3">
+                            <div class="col-12">
+                                <p>Alta, Baja, modificación de un registro de clientes empleando:. Realizado en HTML, CSS, PHP, Bootstrap y Json.</p>
+                            </div>
+                        </div>
+                        <div class="row p-3">
+                            <div class="col-6">
+                                <a href="https://nelsontarche.com.ar/sistema/abmclientes/" class="btn btn-online" target="_blank">VER ONLINE</a>
+                            </div>
+                            <div class="col-6 text-right">
+                                <a href="" class="codigo-fuente">CÓDIGO FUENTE</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4 col-12">
+                    <div class="bg-white shadow">
+                        <img src="images/sistema-admin.png" alt="ABM Ventas" class="img-fluid p-3">
+                        <div class="row p-3">
+                            <div class="col-12 degradado">
+                                <h3>PROYECTO INTEGRADOR</h3>
+                            </div>
+                        </div>
+                        <div class="row p-3">
+                            <div class="col-12">
+                                <p>Alta, Baja, modificación de un registro de clientes empleando:. Realizado en HTML, CSS, PHP, Bootstrap y Json.</p>
+                            </div>
+                        </div>
+                        <div class="row p-3">
+                            <div class="col-6">
+                                <a href="https://nelsontarche.com.ar/sistema/abmclientes/" class="btn btn-online" target="_blank">VER ONLINE</a>
+                            </div>
+                            <div class="col-6 text-right">
+                                <a href="" class="codigo-fuente">CÓDIGO FUENTE</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <footer>
         <div class="container">
             <div class="row">

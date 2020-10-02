@@ -56,7 +56,7 @@
             </div>
             <div class="row">
                 <div class="col-12 text-center">
-                    <button class="btn btn-trabajo">MIRÁ MI TRABAJO</button>
+                    <a href="proyectos.php " class="btn btn-trabajo">MIRÁ MI TRABAJO</a>
                 </div>
             </div>
         </div>

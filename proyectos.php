@@ -56,7 +56,7 @@
             </div>
             <div class="row">
                 <div class="col-7 px-0 pb-4">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni ratione dolore quia facere beatae in mollitia harum! Repellat eligendi animi, qui mollitia tempore consequatur, repudiandae unde cupiditate nemo quam porro.</p>
+                    <p>Estos son algunos de los trabajos que hice durante el cursado:</p>
                 </div>
             </div>
         </div>
@@ -74,7 +74,7 @@
                         </div>
                         <div class="row p-3">
                             <div class="col-12">
-                                <p>Alta, Baja, modificación de un registro de clientes empleando:. Realizado en HTML, CSS, PHP, Bootstrap y Json.</p>
+                                <p>Alta, Baja, modificación de un registro de clientes empleando:. Realizado en HTML, CSS, PHP, Bootstrap y Json. <br><br><br></p>
                             </div>
                         </div>
                         <div class="row p-3">
@@ -97,7 +97,7 @@
                         </div>
                         <div class="row p-3">
                             <div class="col-12">
-                                <p>Alta, Baja, modificación de un registro de clientes empleando:. Realizado en HTML, CSS, PHP, Bootstrap y Json.</p>
+                                <p>Sistema de gestión de clientes, productos y ventas. Realizado en HTML, CSS, PHP, MVC, Bootstrap, JS, Ajax, jQuery, y MySQL de base de dastos. <br><br></p>
                             </div>
                         </div>
                         <div class="row p-3">
@@ -120,7 +120,8 @@
                         </div>
                         <div class="row p-3">
                             <div class="col-12">
-                                <p>Alta, Baja, modificación de un registro de clientes empleando:. Realizado en HTML, CSS, PHP, Bootstrap y Json.</p>
+                                <p>Proyecto Full Stack desarrollado en PHP, Laravel, Javascript, jQuery, AJAX, HTML, CSS, con panel administrador, gestor de usuarios, módulo de
+                                    permisos y funcionalidades a fines.</p>
                             </div>
                         </div>
                         <div class="row p-3">

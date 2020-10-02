@@ -55,16 +55,16 @@
                     <p>Aprendiz de programación y apasionado por la tecnología. Tengo formación técnica en electronica y
                         automatización.</p>
                     <div class="row">
-                        <div class="col-sm-3 col-4 px-0">
+                        <div class="col-sm-3 col-4 pl-2">
                             <a href="https://github.com/mbillalobos" target="_blank" title="Github"><i class="fab fa-github"></i></a>
                             <a href="https://www.linkedin.com/in/manuel-ignacio-billalobos-606a2b1b6/" target="_blank" title="Linkedin"><i class="fab fa-linkedin"></i></a>
                         </div>
                         <div class="col-sm-5 col-4 text-right">
-                            <a href="" class="btn btn-curriculum">DESCARGÁ MI CV</a>       
+                            <a href="" class="btn btn-curriculum" >DESCARGÁ MI CV</a>       
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-12 imagen">
+                <div class="col-sm-6 col-12 imagen center">
                     <img src="images/avatar.jpg" alt="">
                 </div>
             </div>
@@ -72,42 +72,42 @@
     <section id="tecnologias">
         <div class="container pb-5 px-0">
             <div class="row">
-                <div class="col-12 col-sm-6 px-0">
+                <div class="col-6 col-sm-6 px-0">
                     <h2>Tecnologías de programación</h2>
                 </div>
             </div>
             <div class="row">
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/javascript.png" alt="">
                     <div class="card-body px-1">
                         <h3 class="card-text">Javascript</h3>
                     </div>
                 </div>
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/php.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">PHP</h3>
                     </div>
                 </div>
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/html5.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">HTML5</h3>
                     </div>
                 </div>
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/react.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">React.js</h3>
                     </div>
                 </div>
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/jquery.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">jQuery</h3>
                     </div>
                 </div>
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/bootstrap.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">Bootstrap</h3>
@@ -115,37 +115,37 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/laravel.png" alt="">
                     <div class="card-body px-1">
                         <h3 class="card-text">Laravel</h3>
                     </div>
                 </div>
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/mariadb.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">Maria DB</h3>
                     </div>
                 </div>
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/css.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">CSS</h3>
                     </div>
                 </div>
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/mysql.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">MySQL</h3>
                     </div>
                 </div>
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/apache.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">Apache</h3>
                     </div>
                 </div>
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/git.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">Git</h3>
@@ -153,37 +153,37 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/heidisql.png" alt="">
                     <div class="card-body px-1">
                         <h3 class="card-text">Heidi SQL</h3>
                     </div>
                 </div>
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/sublimetext.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">Sublime Text</h3>
                     </div>
                 </div>
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/xampp.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">XAMPP</h3>
                     </div>
                 </div>
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/word.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">Word</h3>
                     </div>
                 </div>
-                <div class="col m-1 card">
+                <div class="col-6 col-sm m-1 card">
                     <img class="card-img-top" src="images/excel.png" alt="">
                     <div class="card-body">
                         <h3 class="card-text">Excel</h3>
                     </div>
                 </div>
-                <div class="col m-1">
+                <div class="col-12 col-sm m-1">
                 </div>
             </div>
         </div>
@@ -191,26 +191,26 @@
     <section id="intereses">
         <div class="container">
             <div class="row justify-content-center py-5">
-                <div class="col-12 col-sm-6">
+                <div class="col-12 col-sm recuadro mx-2 p-0">
                     <div class="row align-content-end">
                         <div class="col-6 col-sm-3 pr-0 pl-2">
                             <i class="fas fa-comment-alt"></i>
                         </div>
-                        <div class="col-6 col-sm-9 recuadro">
+                        <div class="col-6 col-sm-9 pt-3 px-5">
                             <h4>IDIOMAS</h4>
                             <p class="idiomas">INGLES - Intermediate B2 <br> ESPAÑOL - Nativo <br> FRANCES - Avanzado
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6">
+                <div class="col-12 col-sm recuadro mx-2 p-0">
                     <div class="row">
                         <div class="col-6 col-sm-3 pr-0 pl-2">
                             <i class="fas fa-star"></i>
                         </div>
-                        <div class="col-6 col-sm-9 recuadro ">
+                        <div class="col-6 col-sm-9 pt-3 px-5">
                             <h4>HOBBIES</h4>
-                            <p class="hobbies">Herreria <br> Youtube</p>
+                            <p class="hobbies">Herreria <br> Juegos Online</p>
                         </div>
                     </div>
                 </div>
@@ -225,12 +225,12 @@
                 </div>
             </div>
             <div class="row pb-5">
-                <div class="col shadow mx-2">
+                <div class="col-12 col-sm shadow mx-2 my-2 pt-2">
                     <div class="row">
-                        <div class="col-6 col-sm-4 d-flex justify-content-center">
+                        <div class="col-4 col-sm-4 d-flex justify-content-center">
                             <img src="images/limpieza.jpg" alt="">
                         </div>
-                        <div class="col-6 col-sm-8">
+                        <div class="col-8 col-sm-8">
                             <h4 style="margin-bottom: 2px;">Vendedor</h4>
                             <h4 style="font-size: 12px; color:#370A6D">Limpieza Tianaran</h4>
                             <p>ENE 2015 - ABR 2016</p>
@@ -249,12 +249,12 @@
                         </div>
                     </div>
                 </div>
-                <div class="col shadow mx-2">
+                <div class="col-12 col-sm shadow mx-2 my-2 pt-2">
                     <div class="row">
-                        <div class="col-6 col-sm-4 d-flex justify-content-center">
+                        <div class="col-4 col-sm-4 d-flex justify-content-center">
                             <img src="images/mascomputacion.png" alt="">
                         </div>
-                        <div class="col-6 col-sm-8">
+                        <div class="col-8 col-sm-8">
                             <h4 style="margin-bottom: 2px;">Vendedor</h4>
                             <h4 style="font-size: 12px; color:#370A6D">MAS Computación</h4>
                             <p>MAY 2016 - PRESENTE</p>
@@ -285,7 +285,7 @@
                 </div>
             </div>
             <div class="row justify-content-center pb-5">
-                <div class="col shadow mx-2">
+                <div class="col-12 col-sm shadow mx-2 my-2 pt-2">
                     <div class="row">
                         <div class="col-6 col-sm-4 d-flex justify-content-center pt-3">
                             <img src="images/depc.png" alt="">
@@ -310,7 +310,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col shadow mx-2">
+                <div class="col-12 col-sm shadow mx-2 my-2 pt-2">
                     <div class="row">
                         <div class="col-6 col-sm-4 d-flex justify-content-center">
                         </div>

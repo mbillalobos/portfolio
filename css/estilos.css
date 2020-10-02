@@ -2,7 +2,7 @@
 
 #inicio {
     background-image: url(../images/fondo-inicio.png);
-    background-size: 100%;
+    background-size: cover;
     background-position: center;
 }
 
@@ -11,6 +11,10 @@ color: white;
 font-size: 23px;
 border: 1px solid white;
 border-radius: 30px;
+text-align: center;
+position: relative;
+left: 12rem;
+top: 41rem;
 }
 
 #inicio .btn-trabajo {
@@ -20,6 +24,8 @@ border-radius: 30px;
     padding: 10px 20px;
     border: 0px solid;
     border-radius: 30px;
+    position: relative;
+    top: 42rem;
 }
 
 #inicio .btn-pdf {
@@ -36,11 +42,14 @@ border-radius: 30px;
     font-weight: 800;
 }
 
+
 /*Estilos de página Sobre Mí*/
 
 #sobre-mi {
     background-image: url(../images/fondo.png);
-    background-size: 100%;
+    background-size: 60%;
+    background-position: top right;
+    background-repeat: no-repeat;
 }
 
 #sobre-mi h1 {
@@ -90,24 +99,23 @@ h3 {
 }
 
 #intereses {
-    background-color: lightgray;
+    background-color: #E3E4E5;
 }
 
 #sobre-mi h4 {
     color: #282828;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: bold;
 }
 
 #sobre-mi .idiomas, #sobre-mi .hobbies {
-    font-size: 10px;
+    font-size: 12px;
     color: #282828;
 }
 
 #sobre-mi .recuadro {
     background-color: white;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
+    border-radius: 15px;
     padding-top: 20px;
 
 }
@@ -115,9 +123,9 @@ h3 {
 #sobre-mi .fa-comment-alt, #sobre-mi .fa-star {
     background-color: #370A6D;
     color: white ;
-    font-size: 50px;
+    font-size: 87px;
     border: 0px solid;
-    border-radius: 12px;
+    border-radius: 15px;
     padding: 30px 30px;   
 }
 
@@ -186,7 +194,7 @@ color: white;
 }
 
 #estudios {
-    background-color: lightgray;
+    background-color: #E3E4E5;
 }
 
 #estudios h2{
@@ -232,7 +240,7 @@ color: white;
 }
 
 #sobre-mi footer {
-    background-color: lightgray;
+    background-color: #E3E4E5;
 }
 
 #sobre-mi footer a {
@@ -265,7 +273,9 @@ color: white;
 
 #proyectos {
     background-image: url(../images/fondo.png);
-    background-size: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 #proyectos .fab {
@@ -290,7 +300,7 @@ color: white;
     color: #E20000;
 }
 
-#proyectos .depc {
+.depc {
     text-decoration: underline;
 }
 
@@ -301,14 +311,6 @@ color: white;
 #proyectos .bg-white {
     border: 0px solid;
     border-radius: 15px;
-}
-
-#proyectos h3 {
-    color: white;
-    font-size: 19px;
-    text-justify: auto;
-    text-align: center;
-    vertical-align: center;
 }
 
 #proyectos .degradado {
@@ -339,6 +341,12 @@ color: white;
     width: 100%;
   }
 
+#proyectos h3 {
+    color: white;
+    font-size: 16px;
+    font-weight: 900;
+    padding-top: 15px;
+}
 
 /*Estilos de página Contacto*/
 
@@ -375,7 +383,8 @@ nav .active {
 
 #contacto {
     background-image: url(../images/fondo-contacto.png);
-    background-size: 100%;
+    background-size: cover;
+    background-position: center;
 }
 
 .btn-enviar {
@@ -468,5 +477,7 @@ footer .fa-whatsapp {
 
 }
 
-
+.depc {
+    text-decoration: underline;
+}
 

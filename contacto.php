@@ -33,7 +33,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-6 col-12">
+                <div class="col-sm-6 col-12 px-0">
                     <p>Para más detalles sobre mi
                         trabajo podés ver mi Linkedin,
                         descargar mi CV o mandarme
@@ -41,22 +41,22 @@
                 </div>
                 <div class="col-sm-6 col-12">
                     <form action="" method="POST">
-                        <div class="mb-3 shadow">
-                            <input type="text" name="txtNombre" id="txtNombre" class="form-control"
+                        <div class="mb-3">
+                            <input type="text" name="txtNombre" id="txtNombre" class="form-control shadow"
                                 placeholder="Nombre">
                         </div>
-                        <div class="mb-3 shadow">
-                            <input type="email" name="txtCorreo" id="txtCorreo" class="form-control"
+                        <div class="mb-3">
+                            <input type="email" name="txtCorreo" id="txtCorreo" class="form-control shadow"
                                 placeholder="Correo">
                         </div>
-                        <div class="mb-3 shadow">
-                            <textarea type="email" name="txtMensaje" id="txtMensaje" class="form-control"
+                        <div class="mb-3">
+                            <textarea type="text" name="txtMensaje" id="txtMensaje" class="form-control shadow"
                                 placeholder="Comentarios..." rows="7"></textarea>
                         </div>
+                        <div class="text-right">
+                            <button type="submit" class="btn btn-enviar">ENVIAR</button>
+                        </div>
                     </form>
-                    <div class="text-right">
-                        <button type="submit" class="btn btn-enviar">ENVIAR</button>
-                    </div>
                 </div>
             </div>
         </div>
